@@ -1,0 +1,274 @@
+{
+  "cpu": [
+    {
+      "id": 1,
+      "brand": "Intel",
+      "model": "i7 97000k",
+      "price": 324.99,
+      "cores": 8,
+      "socket": "LGA 1151",
+      "wattage": 95
+    },
+    {
+      "id": 2,
+      "brand": "AMD",
+      "model": "Ryzen 7",
+      "price": 289.99,
+      "cores": 8,
+      "socket": "Socket AM4",
+      "wattage": 65
+    },
+    {
+      "id": 3,
+      "brand": "Intel",
+      "model": "i9 99000k",
+      "price": 419.99,
+      "cores": 8,
+      "socket": "LGA 1151",
+      "wattage": 95
+    },
+    {
+      "id": 4,
+      "brand": "AMD",
+      "model": "Ryzen 5 2600",
+      "price": 189.99,
+      "cores": 6,
+      "socket": "Socket AM4",
+      "wattage": 65
+    },
+    {
+      "id": 5,
+      "brand": "Intel",
+      "model": "i7 87000k",
+      "price": 359.99,
+      "cores": 6,
+      "socket": "LGA 1151",
+      "wattage": 95
+    }
+  ],
+  "motherboard": [
+    {
+      "id": 1,
+      "brand": "Asus",
+      "model": "X570X",
+      "socket": "Socket AM4",
+      "memorySlots": 4,
+      "maxRam": 128,
+      "type": "ATX",
+      "price": 189.99
+    },
+    {
+      "id": 2,
+      "brand": "Asus",
+      "model": "B450",
+      "socket": "Socket AM4",
+      "memorySlots": 4,
+      "maxRam": 128,
+      "type": "ATX",
+      "price": 159.99
+    },
+    {
+      "id": 3,
+      "brand": "Asus",
+      "model": "B550",
+      "socket": "Socket AM4",
+      "memorySlots": 4,
+      "maxRam": 128,
+      "type": "ATX",
+      "price": 165.21
+    },
+    {
+      "id": 4,
+      "brand": "MSI",
+      "model": "Z490 Gaming Plus",
+      "socket": "LGA1200",
+      "memorySlots": 4,
+      "maxRam": 128,
+      "type": "ATX",
+      "price": 169.99
+    },
+    {
+      "id": 5,
+      "brand": "MSI",
+      "model": "Z490 Gaming Edge",
+      "socket": "LGA1200",
+      "memorySlots": 4,
+      "maxRam": 128,
+      "type": "ATX",
+      "price": 199.99
+    },
+    {
+      "id": 6,
+      "brand": "MSI",
+      "model": "z390 Gaming Plus",
+      "socket": "LGA1151",
+      "memorySlots": 4,
+      "maxRam": 64,
+      "type": "ATX",
+      "price": 134.99
+    }
+  ],
+  "ssd": [
+    {
+      "id": 1,
+      "brand": "Samsung",
+      "model": "970 EVO",
+      "capacity": 1000,
+      "price": 169.98
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "970 EVO",
+      "capacity": 500,
+      "price": 109.98
+    },
+    {
+      "id": 3,
+      "brand": "Samsung",
+      "model": "970 EVO",
+      "capacity": 250,
+      "price": 59.98
+    },
+    {
+      "id": 4,
+      "brand": "WD",
+      "model": "Black",
+      "capacity": 1000,
+      "price": 154.99
+    },
+    {
+      "id": 5,
+      "brand": "WD",
+      "model": "Black",
+      "capacity": 500,
+      "price": 104.99
+    },
+    {
+      "id": 6,
+      "brand": "WD",
+      "model": "Black",
+      "capacity": 250,
+      "price": 49.99
+    }
+  ],
+  "gpu": [
+    {
+      "id": 1,
+      "brand": "EVGA",
+      "model": "NVIDIA GeForce RTX 2060",
+      "memory": 6,
+      "bit": 192,
+      "clock-speed": 14000,
+      "price": 309.99
+    },
+    {
+      "id": 2,
+      "brand": "ZOTAC",
+      "model": "NVIDIA GeForce RTX 2060",
+      "memory": 6,
+      "bit": 192,
+      "clock-speed": 14000,
+      "price": 339.99
+    },
+    {
+      "id": 3,
+      "brand": "MSI",
+      "model": "NVIDIA GeForce RTX 2060",
+      "memory": 8,
+      "bit": 256,
+      "clock-speed": 14000,
+      "price": 409.99
+    },
+    {
+      "id": 4,
+      "brand": "XFX",
+      "model": "AMD RX 5600XT",
+      "memory": 6,
+      "bit": 192,
+      "clock-speed": 14000,
+      "price": 269.99
+    },
+    {
+      "id": 5,
+      "brand": "MSI",
+      "model": "NVIDIA GeForce RTX 2060",
+      "memory": 6,
+      "bit": 192,
+      "clock-speed": 14000,
+      "price": 339.99
+    }
+  ],
+  "memory": [
+    {
+      "id": 1,
+      "brand": "Corsair",
+      "model": "Vengeance RGB PRO",
+      "memory": 16,
+      "piece": 2,
+      "speed": 3200,
+      "type": "DDR4",
+      "price": 79.99
+    },
+    {
+      "id": 2,
+      "brand": "Corsair",
+      "model": "Vengeance LPX",
+      "memory": 16,
+      "piece": 2,
+      "speed": 3600,
+      "type": "DDR4",
+      "price": 61.99
+    },
+    {
+      "id": 3,
+      "brand": "Corsair",
+      "model": "Vengeance RGB PRO",
+      "memory": 32,
+      "piece": 2,
+      "speed": 3200,
+      "type": "DDR4",
+      "price": 139.99
+    },
+    {
+      "id": 4,
+      "brand": "Corsair",
+      "model": "Vengeance RGB PRO",
+      "memory": 16,
+      "piece": 2,
+      "speed": 3600,
+      "type": "DDR4",
+      "price": 94.99
+    }
+  ],
+  "power": [
+    {
+      "id": 1,
+      "brand": "Corsair",
+      "model": "CX",
+      "power": 750,
+      "price": 109.99
+    },
+    {
+      "id": 2,
+      "brand": "Cooler Master",
+      "model": "MWE",
+      "power": 550,
+      "price": 89.99
+    },
+    {
+      "id": 3,
+      "brand": "Thermaltake",
+      "model": "Smart",
+      "power": 700,
+      "price": 69.99
+    },
+    {
+      "id": 4,
+      "brand": "Apevia",
+      "model": "Prestige",
+      "power": 800,
+      "price": 66.99
+    }
+  ]
+}
