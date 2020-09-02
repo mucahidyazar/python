@@ -1,0 +1,2426 @@
+
+        BOOK 1
+        name: Allah’ım Ben Geldim
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 2
+        name: Momo
+        author:  Michael Ende
+        publisher: PEGASUS YAYINLARI
+      
+        BOOK 3
+        name: Fareler ve İnsanlar
+        author:  John Steinbeck
+        publisher: SEL YAYINCILIK
+      
+        BOOK 4
+        name: Bağırmayan Anneler
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 5
+        name: Başımın Üstünde Yerin Var
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 6
+        name: Körlük
+        author:  Jose Saramago
+        publisher: KIRMIZI KEDİ YAYINEVİ
+      
+        BOOK 7
+        name: Arachnoid Mater
+        author:  Serkan Karaismailoğlu
+        publisher: ELMA YAYINEVİ
+      
+        BOOK 8
+        name: Korkutarak Değil Sevdirerek Din Eğitimi
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 9
+        name: Fıtrat Pedagojisi
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 10
+        name: Fıtrat Pedagojisi 2 & Peygamberlerin Çocuk Eğitimi Metotları
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 11
+        name: Bir Ömür Nasıl Yaşanır? & Hayatta Doğru Seçimler İçin Öneriler
+        author: Prof. Dr. İlber Ortaylı
+        publisher: KRONİK KİTAP
+      
+        BOOK 12
+        name: Tüfek, Mikrop ve Çelik 
+        author:  Jared Diamond
+        publisher: PEGASUS YAYINLARI
+      
+        BOOK 13
+        name: Çocuklarımızla İtişmeyelim İletişelim 
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 14
+        name: Cesur Yeni Dünya
+        author:  Aldous Huxley
+        publisher: İTHAKİ YAYINLARI
+      
+        BOOK 15
+        name: Yeşilin Kızı Anne
+        author:  L. M. Montgomery
+        publisher: SALTOKUR
+      
+        BOOK 16
+        name: Yeraltından Notlar (Karton Kapak)
+        author:  Fyodor Mihayloviç Dostoyevski
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 17
+        name: Allah’ı Arayan Çocuk
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 18
+        name: Simyacı (Ciltsiz)
+        author:  Paulo Coelho
+        publisher: CAN YAYINLARI
+      
+        BOOK 19
+        name: 1984
+        author:  George Orwell
+        publisher: CAN YAYINLARI
+      
+        BOOK 20
+        name: Saatleri Ayarlama Enstitüsü
+        author:  Ahmet Hamdi Tanpınar
+        publisher: DERGAH YAYINLARI
+      
+        BOOK 21
+        name: Sineklerin Tanrısı (karton kapak)
+        author:  William Golding
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 22
+        name: Bağırmayan Çocuklar
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 23
+        name: Dindar Bir Doktor Hanım
+        author:  Ayşe Hümeyra Ökten
+        publisher: TİMAŞ YAYINLARI
+      
+        BOOK 24
+        name: Suç ve Ceza (Ciltsiz)
+        author:  Fyodor Mihayloviç Dostoyevski
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 25
+        name: Yabancı
+        author:  Albert Camus
+        publisher: CAN YAYINLARI
+      
+        BOOK 26
+        name: İnsan Nedir?
+        author:  Mark Twain
+        publisher: DEDALUS KİTAP
+      
+        BOOK 27
+        name: Kral Kaybederse
+        author: Dr. Gülseren Budayıcıoğlu
+        publisher: REMZİ KİTABEVİ
+      
+        BOOK 28
+        name: Pal Sokağı Çocukları
+        author:  Ferenc Molnar
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 29
+        name: Puslu Kıtalar Atlası
+        author:  İhsan Oktay Anar
+        publisher: İLETİŞİM YAYINLARI
+      
+        BOOK 30
+        name: Fahrenheit 451
+        author:  Ray Bradbury
+        publisher: İTHAKİ YAYINLARI
+      
+        BOOK 31
+        name: Otomatik Portakal (ciltsiz)
+        author:  Anthony Burgess
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 32
+        name: Serenad (Karton Kapak)
+        author:  Zülfü Livaneli
+        publisher: DOĞAN KİTAP
+      
+        BOOK 33
+        name: Sabırlı Aileler Merhametli Çocuklar Yetiştirir 
+        author:  Dilek Cesur
+        publisher: YEDİVEREN YAYINLARI
+      
+        BOOK 34
+        name: Martin Eden
+        author:  Jack London
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 35
+        name: Gerçek Tıp & Yitik Şifanın İzinde
+        author:  Aidin Salih
+        publisher: YİTİK ŞİFA
+      
+        BOOK 36
+        name: Madalyonun İçi
+        author: Dr. Gülseren Budayıcıoğlu
+        publisher: REMZİ KİTABEVİ
+      
+        BOOK 37
+        name: Ebeveynlik Tefekkürleri
+        author:  Merve Şahinkaya
+        publisher: CEZVE KİTAP
+      
+        BOOK 38
+        name: Kırmızı Pazartesi
+        author:  Gabriel Garcia Marquez
+        publisher: CAN YAYINLARI
+      
+        BOOK 39
+        name: Pia Mater
+        author:  Serkan Karaismailoğlu
+        publisher: ELMA YAYINEVİ
+      
+        BOOK 40
+        name: Kardeş Kardeş Geçinen Çocuklar Yetiştirmek
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 41
+        name: İnsanın Anlam Arayışı
+        author:  Viktor Emil Frankl
+        publisher: OKUYAN US YAYIN
+      
+        BOOK 42
+        name: Diriliş Neslinin Amentüsü
+        author:  Sezai Karakoç
+        publisher: DİRİLİŞ YAYINLARI
+      
+        BOOK 43
+        name: Ben, Kirke
+        author:  Madeline Miller
+        publisher: İTHAKİ YAYINLARI
+      
+        BOOK 44
+        name: Beynine Format At
+        author:  M. Barış Muslu
+        publisher: DOĞAN KİTAP
+      
+        BOOK 45
+        name: Karamazov Kardeşler (Ciltsiz)
+        author:  Fyodor Mihayloviç Dostoyevski
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 46
+        name: Çocuk Eğitiminde 100 Mucize Çözüm & Bağlanma-Uyku-Beslenme Problemlerine Çözümler
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 47
+        name: Dervişin Teselli Koleksiyonu & Doğu'dan Batı'dan 99 Teselli 
+        author:  Mecit Ömür Öztürk
+        publisher: HAYY KİTAP
+      
+        BOOK 48
+        name: Satranç (Karton Kapak)
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 49
+        name: Kuyucaklı Yusuf
+        author:  Sabahattin Ali
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 50
+        name: Günahın Üç Rengi & Madalyonun Öteki Yüzü
+        author: Dr. Gülseren Budayıcıoğlu
+        publisher: REMZİ KİTABEVİ
+      
+        BOOK 51
+        name: Güneşi Uyandıralım
+        author:  Jose Mauro De Vasconcelos
+        publisher: CAN YAYINLARI
+      
+        BOOK 52
+        name: Zuzu ile Allah’ın Güzel İsimlerini Öğreniyorum (3’lü Set)
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 53
+        name: Beyaz Zambaklar Ülkesinde  (Atatürk 'ün askerlere tavsiye ettiği kitap)
+        author:  Grigory Petrov
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 54
+        name: Ben Ne Biliim? & 90 Soruda Bilimce Eğlence
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 55
+        name: Beş Şehir
+        author:  Ahmet Hamdi Tanpınar
+        publisher: DERGAH YAYINLARI
+      
+        BOOK 56
+        name: Hayata Dön
+        author: Dr. Gülseren Budayıcıoğlu
+        publisher: REMZİ KİTABEVİ
+      
+        BOOK 57
+        name: Camdaki Kız
+        author: Dr. Gülseren Budayıcıoğlu
+        publisher: DOĞAN KİTAP
+      
+        BOOK 58
+        name: Gurur ve Önyargı (Ciltsiz)
+        author:  Jane Austen
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 59
+        name: Kakaloji / Bir Kakanın Bilimsel Yolculuğu
+        author: Doç. Dr. Saniye Bencik Kangal
+        publisher: TURTA KİTAP
+      
+        BOOK 60
+        name: Beyaz Gemi
+        author:  Cengiz Aytmatov
+        publisher: ÖTÜKEN NEŞRİYAT
+      
+        BOOK 61
+        name: Bilinmeyen Bir Kadının Mektubu (Karton Kapak)
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 62
+        name: Kürk Mantolu Madonna
+        author:  Sabahattin Ali
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 63
+        name: Altıncı Koğuş
+        author:  Anton Çehov
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 64
+        name: Delifişek
+        author:  Jose Mauro De Vasconcelos
+        publisher: CAN YAYINLARI
+      
+        BOOK 65
+        name: Kakademi / Birtakım Kakademik İşler
+        author: Doç. Dr. Saniye Bencik Kangal
+        publisher: TURTA KİTAP
+      
+        BOOK 66
+        name: Zaman Bisikleti
+        author:  Bilgin Adalı
+        publisher: CAN ÇOCUK YAYINLARI
+      
+        BOOK 67
+        name: Abartma Tozu
+        author:  Şermin Yaşar
+        publisher: TAZE KİTAP
+      
+        BOOK 68
+        name: Dedemin Bakkalı
+        author:  Şermin Yaşar
+        publisher: TAZE KİTAP
+      
+        BOOK 69
+        name: Semerkant
+        author:  Amin Maalouf
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 70
+        name: İçimdeki Müzik 
+        author:  Sharon M. Draper
+        publisher: TİMAŞ GENÇ
+      
+        BOOK 71
+        name: Sabahattin Ali Seti (3 Kitap)
+        author:  Sabahattin Ali
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 72
+        name: İslamın Dirilişi
+        author:  Sezai Karakoç
+        publisher: DİRİLİŞ YAYINLARI
+      
+        BOOK 73
+        name: Gazap Üzümleri
+        author:  John Steinbeck
+        publisher: SEL YAYINCILIK
+      
+        BOOK 74
+        name: İnce Memed 1
+        author:  Yaşar Kemal
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 75
+        name: Amok Koşucusu
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 76
+        name: Bu Ülke
+        author:  Cemil Meriç
+        publisher: İLETİŞİM YAYINLARI
+      
+        BOOK 77
+        name: Yitik Cennet
+        author:  Sezai Karakoç
+        publisher: DİRİLİŞ YAYINLARI
+      
+        BOOK 78
+        name: Ya Tahammül Ya Sefer
+        author:  Mustafa Kutlu
+        publisher: DERGAH YAYINLARI
+      
+        BOOK 79
+        name: Kakazoo / Bir Kakadan Çok Daha Fazlası: Ekolojik Denge
+        author: Doç. Dr. Saniye Bencik Kangal
+        publisher: TURTA KİTAP
+      
+        BOOK 80
+        name: Devlet (Ciltsiz)
+        author:  Platon(Eflatun) 
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 81
+        name: Canı Sıkılan Çocuklar İçin Ev Yapımı (2’li Kitap Seti)
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 82
+        name: Romeo ve Juliet (Karton Kapak)
+        author:  William Shakespeare
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 83
+        name: Sokrates'in Savunması (Karton Kapak)
+        author:  Platon(Eflatun) 
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 84
+        name: Charlie'nin Çikolata Fabrikası (Ciltsiz)
+        author:  Roald Dahl
+        publisher: CAN ÇOCUK YAYINLARI
+      
+        BOOK 85
+        name: Harry Potter ve Felsefe Taşı
+        author:  J. K. Rowling
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 86
+        name: İnsanlığın Dirilişi
+        author:  Sezai Karakoç
+        publisher: DİRİLİŞ YAYINLARI
+      
+        BOOK 87
+        name: İyi Aile Yoktur
+        author:  Nihan Kaya
+        publisher: İTHAKİ YAYINLARI
+      
+        BOOK 88
+        name: Kurtlarla Koşan Kadınlar / Vahşi Kadın Arketipine Dair Mit ve Öyküler
+        author:  Clarissa P. Estes
+        publisher: AYRINTI YAYINLARI
+      
+        BOOK 89
+        name: Tutunamayanlar / Bütün Eserleri 1
+        author:  Oğuz Atay
+        publisher: İLETİŞİM YAYINLARI
+      
+        BOOK 90
+        name: İFA: İnsanın Fabrika Ayarları 1.Kitap
+        author:  Sinan Canan
+        publisher: TUTİ KİTAP
+      
+        BOOK 91
+        name: Geleceğimizde İslam Var
+        author:  Roger Garaudy
+        publisher: TİMAŞ YAYINLARI
+      
+        BOOK 92
+        name: Olağanüstü Bir Gece
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 93
+        name: Kadın Beyni Erkek Beyni
+        author:  Serkan Karaismailoğlu
+        publisher: ELMA YAYINEVİ
+      
+        BOOK 94
+        name: Masumiyet Müzesi
+        author:  Orhan Pamuk
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 95
+        name: Senin Suçun Değil
+        author:  Beyhan Budak
+        publisher: İNKILAP KİTABEVİ
+      
+        BOOK 96
+        name: Mecburiyet
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 97
+        name: Veronika Ölmek İstiyor
+        author:  Paulo Coelho
+        publisher: CAN YAYINLARI
+      
+        BOOK 98
+        name: Çavdar Tarlasında Çocuklar
+        author:  J. D. Salinger
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 99
+        name: Bağlanma Günlüğü
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 100
+        name: Hayvanlardan Tanrılara Sapiens &  İnsan Türünün Kısa Bir Tarihi
+        author:  Yuval Noah Harari
+        publisher: KOLEKTİF KİTAP
+      
+        BOOK 101
+        name: Uzun Hikaye
+        author:  Mustafa Kutlu
+        publisher: DERGAH YAYINLARI
+      
+        BOOK 102
+        name: Sırça Köşk
+        author:  Sabahattin Ali
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 103
+        name: Psikolojik İlk Yardım
+        author:  Tülay Kök
+        publisher: OKUYAN US YAYIN
+      
+        BOOK 104
+        name: Doğunun Limanları
+        author:  Amin Maalouf
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 105
+        name: Bir Çöküşün Öyküsü
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 106
+        name: Gül Yetiştiren Adam
+        author:  Rasim Özdenören
+        publisher: İZ YAYINCILIK
+      
+        BOOK 107
+        name: Bırak ve Rahatla
+        author: Pedagog Adem Güneş
+        publisher: TİMAŞ YAYINLARI
+      
+        BOOK 108
+        name: Yüzyıllık Yalnızlık (Ciltsiz)
+        author:  Gabriel Garcia Marquez
+        publisher: CAN YAYINLARI
+      
+        BOOK 109
+        name: İngilizce Bulmacalarla Kahve Molası -1
+        author:  Alev Yıldırım
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 110
+        name: Üzüntü Kapını Çaldığında
+        author:  Eva Eland
+        publisher: MARTI ÇOCUK YAYINLARI
+      
+        BOOK 111
+        name: Şu Yaramaz Tavşanlar
+        author:  Ciara Flood
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 112
+        name: İrade Terbiyesi
+        author:  Jules Payot
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 113
+        name: Kiraz Ağacı ile Aramızdaki Mesafe
+        author:  Paola Peretti
+        publisher: TİMAŞ GENÇ
+      
+        BOOK 114
+        name: Kızıl Veba
+        author:  Jack London
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 115
+        name: Yarışı Yavaşlar Kazanır
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 116
+        name: Uğultulu Tepeler
+        author:  Emily Bronte
+        publisher: CAN YAYINLARI
+      
+        BOOK 117
+        name: Aylak Adam
+        author:  Yusuf Atılgan
+        publisher: CAN YAYINLARI
+      
+        BOOK 118
+        name: Korku
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 119
+        name: İnsan Olmak
+        author:  Engin Geçtan
+        publisher: METİS YAYINLARI
+      
+        BOOK 120
+        name: Dönüşüm (Karton Kapak)
+        author:  Franz Kafka
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 121
+        name: Dedemin Bakkalı - Çırak
+        author:  Şermin Yaşar
+        publisher: TAZE KİTAP
+      
+        BOOK 122
+        name: Polar Yeleğin Dünya Seyahati
+        author:  Wolfgang Korn
+        publisher: CAN ÇOCUK YAYINLARI
+      
+        BOOK 123
+        name: Mutluluğun Başladığı Yer
+        author:  Eva Eland
+        publisher: MARTI ÇOCUK YAYINLARI
+      
+        BOOK 124
+        name: Bitmeyecek Öykü
+        author:  Michael Ende
+        publisher: PEGASUS YAYINLARI
+      
+        BOOK 125
+        name: Müslüman'ın Diyeti
+        author:  Kemal Özer
+        publisher: HAYY KİTAP
+      
+        BOOK 126
+        name: Martıya Uçmayı Öğreten Kedi
+        author:  Luis Sepulveda
+        publisher: CAN ÇOCUK YAYINLARI
+      
+        BOOK 127
+        name: Bir İdam Mahkumunun Son Günü (Cep Boy) (Tam Metin)
+        author:  Victor Hugo
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 128
+        name: Aşkın Celladı
+        author:  Irvin D. Yalom
+        publisher: REMZİ KİTABEVİ
+      
+        BOOK 129
+        name: Evlilik Ahlakı / Muhteşem Ahlak Serisi 1
+        author:  Muhammed Emin Yıldırım
+        publisher: SİYER YAYINLARI
+      
+        BOOK 130
+        name: Annemin Çantası
+        author:  Sara Şahinkanat
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 131
+        name: Veba
+        author:  Albert Camus
+        publisher: CAN YAYINLARI
+      
+        BOOK 132
+        name: Beyinde Ararken Bağırsakta Buldum
+        author:  Serkan Karaismailoğlu
+        publisher: ELMA YAYINEVİ
+      
+        BOOK 133
+        name: Hamamname 
+        author:  Murathan Mungan
+        publisher: METİS YAYINLARI
+      
+        BOOK 134
+        name: Yaşamak
+        author:  Cahit Zarifoğlu
+        publisher: BEYAN YAYINLARI
+      
+        BOOK 135
+        name: The Little Prince
+        author:  Antoine De Saint Exupery
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 136
+        name: Canı Sıkılan Çocuklar İçin Ev Yapımı Oyunlar
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 137
+        name: Üç Kedi Bir Dilek
+        author:  Sara Şahinkanat
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 138
+        name: İFA: İnsanın Fabrika Ayarları II. Kitap & İlişkiler ve Stres
+        author:  Sinan Canan
+        publisher: TUTİ KİTAP
+      
+        BOOK 139
+        name: Ay'ı Kim Çaldı?
+        author:  Helen Stratton Would
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 140
+        name: Kumarbaz (Karton Kapak)
+        author:  Fyodor Mihayloviç Dostoyevski
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 141
+        name: Bunun Adı Findel
+        author:  Andrew Clements
+        publisher: GÜNIŞIĞI KİTAPLIĞI
+      
+        BOOK 142
+        name: Sefiller (2 Cilt) - (Karton Kapak)
+        author:  Victor Hugo
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 143
+        name: Gülün Adı (Ciltsiz)
+        author:  Umberto Eco
+        publisher: CAN YAYINLARI
+      
+        BOOK 144
+        name: Mutlu Su Aygırı
+        author:  Richard Edwards
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 145
+        name: Bu Böyledir
+        author:  Mustafa Kutlu
+        publisher: DERGAH YAYINLARI
+      
+        BOOK 146
+        name: Dünyaya Geldim Gitmeye
+        author: Dr. Kemal Sayar
+        publisher: TURKUVAZ KİTAP
+      
+        BOOK 147
+        name: Görmek
+        author:  Jose Saramago
+        publisher: KIRMIZI KEDİ YAYINEVİ
+      
+        BOOK 148
+        name: Nietzsche Ağladığında
+        author:  Irvin D. Yalom
+        publisher: AYRINTI YAYINLARI
+      
+        BOOK 149
+        name: On Küçük Zenci (Tam Metin)
+        author:  Agatha Christie
+        publisher: ALTIN KİTAPLAR
+      
+        BOOK 150
+        name: Bir İdam Mahkumunun Son Günü
+        author:  Victor Hugo
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 151
+        name: Ay Işığı Sokağı
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 152
+        name: Kardeşimin Hikayesi (Karton Kapak)
+        author:  Zülfü Livaneli
+        publisher: DOĞAN KİTAP
+      
+        BOOK 153
+        name: Savaş Sanatı (Karton Kapak)
+        author:  Sun Tzu
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 154
+        name: Sağlığına Format At
+        author:  M. Barış Muslu
+        publisher: DOĞAN NOVUS
+      
+        BOOK 155
+        name: Genç Werther'in Acıları (Ciltsiz)
+        author:  Johann Wolfgang Goethe
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 156
+        name: Küçük Kara Balık
+        author:  Samed Behrengi
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 157
+        name: Kürk Mantolu Madonna
+        author:  Sabahattin Ali
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 158
+        name: Oblomov (Ciltsiz)
+        author:  İvan Gonçarov
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 159
+        name: Beyaz Zambaklar Ülkesinde (Cep Boy) (Tam Metin)
+        author:  Grigory Petrov
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 160
+        name: Hamlet (Ciltsiz)
+        author:  William Shakespeare
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 161
+        name: Outliers (Çizginin Dışındakiler) & Bazı İnsanlar Neden Daha Başarılı Olur?
+        author:  Malcolm Gladwell
+        publisher: MEDİACAT KİTAPLARI
+      
+        BOOK 162
+        name: İnsan Neyle Yaşar? (Cep Boy) (Tam Metin)
+        author:  Lev N. Tolstoy
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 163
+        name: Geliştiren Anne-Baba
+        author:  Doğan Cüceloğlu
+        publisher: REMZİ KİTABEVİ
+      
+        BOOK 164
+        name: Kirpinin Zarafeti
+        author:  Muriel Barbery
+        publisher: KIRMIZI KEDİ YAYINEVİ
+      
+        BOOK 165
+        name: Ermiş
+        author:  Halil Cibran
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 166
+        name: Kumkurdu Serisi Seti (3 Kitap)
+        author:  Asa Lind
+        publisher: PEGASUS  ÇOCUK YAYINLARI
+      
+        BOOK 167
+        name: Hayvan Çiftliği (Ciltsiz)
+        author:  George Orwell
+        publisher: CAN YAYINLARI
+      
+        BOOK 168
+        name: Aile Ahlakı / Muhteşem Ahlak Serisi 2
+        author:  Muhammed Emin Yıldırım
+        publisher: SİYER YAYINLARI
+      
+        BOOK 169
+        name: 2020 KPSS Güncel ve Kültürel Bilgiler
+        author:  Emrah Vahap Özkaraca
+        publisher: HOCA WEBDE
+      
+        BOOK 170
+        name: Toprak Ana
+        author:  Cengiz Aytmatov
+        publisher: ÖTÜKEN NEŞRİYAT
+      
+        BOOK 171
+        name: 1-5 Yaş Çocuğunun  Gelişimi Beslenmesi Oyunları
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 172
+        name: Şimdiki Çocuklar Harika
+        author:  Aziz Nesin
+        publisher: NESİN YAYINEVİ
+      
+        BOOK 173
+        name: Müslümanca Düşünme Üzerine Denemeler
+        author:  Rasim Özdenören
+        publisher: İZ YAYINCILIK
+      
+        BOOK 174
+        name: Çocuk Yetiştirme  Ahlakı / Çocuk Yetiştirme  Ahlakı 3
+        author:  Muhammed Emin Yıldırım
+        publisher: SİYER YAYINLARI
+      
+        BOOK 175
+        name: Harry Potter ve Sırlar Odası
+        author:  J. K. Rowling
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 176
+        name: Ziya Gökalp Seti (3 Kitap)
+        author:  Ziya Gökalp
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 177
+        name: Huzur
+        author:  Ahmet Hamdi Tanpınar
+        publisher: DERGAH YAYINLARI
+      
+        BOOK 178
+        name: Dorian Gray'in Portresi (Karton Kapak)
+        author:  Oscar Wilde
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 179
+        name: Böyle Buyurdu Zerdüşt
+        author:  Friedrich Nietzsche
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 180
+        name: Kitaplardan Korkan Çocuk
+        author:  Susanna Tamaro
+        publisher: CAN ÇOCUK YAYINLARI
+      
+        BOOK 181
+        name: Küçük Prens (Cep Boy) (Tam Metin)
+        author:  Antoine De Saint Exupery
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 182
+        name: Denemeler / Montaigne (Ciltsiz)
+        author:  Michel de Montaigne
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 183
+        name: Bunu Herkes Bilir & Tarihte Yanlış Sorulara Doğru Cevaplar
+        author:  Emrah Safa Gürkan
+        publisher: KRONİK KİTAP
+      
+        BOOK 184
+        name: Sofie'nin Dünyası Felsefe Tarihi Üzerine Bir Roman
+        author:  Jostein Gaarder
+        publisher: PAN YAYINCILIK
+      
+        BOOK 185
+        name: İlk 12 Ayda Bebeğin Gelişimi Beslenmesi Oyunları
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 186
+        name: İnsanüstü Türk
+        author:  F.. D..
+        publisher: KİTAPYURDU DOĞRUDAN YAYINCILIK (KDY)
+      
+        BOOK 187
+        name: Küçük Prens
+        author:  Antoine De Saint Exupery
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 188
+        name: İnsanlığın Medeniyet Destanı
+        author:  Roger Garaudy
+        publisher: TİMAŞ YAYINLARI
+      
+        BOOK 189
+        name: Bir Nefes Gibi
+        author:  Ferzan Özpetek
+        publisher: CAN YAYINLARI
+      
+        BOOK 190
+        name: İnce Memed 2
+        author:  Yaşar Kemal
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 191
+        name: Canı Sıkılan Çocuklar İçin Ev Yapımı Bilimsel Etkinlikler
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 192
+        name: Sarmal
+        author:  Murat Ağırel
+        publisher: KIRMIZI KEDİ YAYINEVİ
+      
+        BOOK 193
+        name: İyi Hissetmek
+        author: Dr. David Burns
+        publisher: PSİKONET YAYINLARI
+      
+        BOOK 194
+        name: Uçan Sınıf
+        author:  Erich Kastner
+        publisher: CAN ÇOCUK YAYINLARI
+      
+        BOOK 195
+        name: IKIGAI & Japonların Uzun ve Mutlu Yaşam Sırrı
+        author:  Francesc Miralles
+        publisher: İNDİGO KİTAP
+      
+        BOOK 196
+        name: Dramsız Disiplin
+        author:  Tina Payne Bryson
+        publisher: PEGASUS YAYINLARI
+      
+        BOOK 197
+        name: Saraybosna Marlborosu
+        author:  Milenko Yergoviç
+        publisher: KUTU YAYINLARI
+      
+        BOOK 198
+        name: Sır
+        author:  Mustafa Kutlu
+        publisher: DERGAH YAYINLARI
+      
+        BOOK 199
+        name: Martı Jonathan Livingston
+        author:  Richard Bach
+        publisher: EPSİLON YAYINEVİ
+      
+        BOOK 200
+        name: Benim Canım Fasulyem / Zuzu İle Allah’ın Güzel İsimlerini Öğreniyorum 1
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 201
+        name: Siddhartha (Ciltsiz)
+        author:  Hermann Hesse
+        publisher: CAN YAYINLARI
+      
+        BOOK 202
+        name: Kırmızı Başlıklı Kız / Zuzu İle Allah’ın Güzel İsimlerini Öğreniyorum- 2
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 203
+        name: Anna Karenina (Ciltsiz)
+        author:  Lev N. Tolstoy
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 204
+        name: İşgal
+        author:  Mustafa Güldağı
+        publisher: LOPUS
+      
+        BOOK 205
+        name: Matilda
+        author:  Roald Dahl
+        publisher: CAN ÇOCUK YAYINLARI
+      
+        BOOK 206
+        name: Farklı Ama Aynı
+        author:  Feridun Oral
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 207
+        name: Aşkımız Eski Bir Roman
+        author:  Ahmet Ümit
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 208
+        name: Şu Hortumlu Dünyada Fil Yalnız Bir Hayvandır (ciltsiz)
+        author:  Ahmet Şerif İzgören
+        publisher: ELMA YAYINEVİ
+      
+        BOOK 209
+        name: Kapıların Dışında
+        author:  Wolfgang Borchert
+        publisher: CAN YAYINLARI
+      
+        BOOK 210
+        name: Elveda Gülsarı
+        author:  Cengiz Aytmatov
+        publisher: ÖTÜKEN NEŞRİYAT
+      
+        BOOK 211
+        name: Alaattin Çakıcı & Siyasette Bürokraside Cezaevinde 
+        author:  Saygı Öztürk
+        publisher: DOĞAN KİTAP
+      
+        BOOK 212
+        name: Savaş ve Barış 2 Cilt (Karton Kapak)
+        author:  Lev N. Tolstoy
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 213
+        name: İrade Terbiyesi (Cep Boy) (Tam Metin)
+        author:  Jules Payot
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 214
+        name: Bir Kadının Yaşamından Yirmi Dört Saat
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 215
+        name: Bal Gibi & Oyun - Masal - Bayram
+        author:  Berfin Sıla Kepez
+        publisher: ELMA YAYINEVİ
+      
+        BOOK 216
+        name: Aç Tırtıl (Mukavva Kitap)
+        author:  Eric Carle
+        publisher: MAVİBULUT YAYINCILIK
+      
+        BOOK 217
+        name: 2020 KPSS Genel Yetenek - Genel Kültür Tarih 30 Deneme
+        author:  Serkan Aksoy
+        publisher: PEGEM AKADEMİ YAYINCILIK-SINAV KİTAPLARI
+      
+        BOOK 218
+        name: Bilinçaltınızdan Gelen Ebeveyn
+        author: Dr. Feride Koçak Can
+        publisher: CEZVE KİTAP
+      
+        BOOK 219
+        name: Lyon’da Düğün
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 220
+        name: Notre Dame'ın Kamburu (Karton Kapak)
+        author:  Victor Hugo
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 221
+        name: Gergedanlar Krep Yemez
+        author:  Anna Kemp
+        publisher: PEARSON
+      
+        BOOK 222
+        name: Küçük Meşe Palamudu / Doğanın Eşsiz Hikayeleri 2
+        author:  Melanie Joyce
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 223
+        name: İnce Memed 3
+        author:  Yaşar Kemal
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 224
+        name: Çetin Ceviz & Sıra Dışı Bir Ödev Hikayesi
+        author:  Sinan Yaşar
+        publisher: FOM KİTAP
+      
+        BOOK 225
+        name: Akıllı Tilkinin Masalı (Karton Kapak)
+        author:  Debi Gliori
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 226
+        name: Şeytan Ye Diyor! & İnsan Ne Yemeli Ne Yememeli?
+        author:  Kemal Özer
+        publisher: HAYY KİTAP
+      
+        BOOK 227
+        name: Yazıyı Bulan Çocuk
+        author:  Sinan Yaşar
+        publisher: FOM KİTAP
+      
+        BOOK 228
+        name: İçimizdeki Şeytan
+        author:  Sabahattin Ali
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 229
+        name: Bülbülü Öldürmek
+        author:  Harper Lee
+        publisher: EPSİLON YAYINEVİ
+      
+        BOOK 230
+        name: Ulusların Düşüşü
+        author:  Daron Acemoğlu
+        publisher: DOĞAN KİTAP
+      
+        BOOK 231
+        name: Küçük Sahabiler Seti (4 Kitap)
+        author:  Özkan Öze
+        publisher: UĞURBÖCEĞİ YAYINLARI
+      
+        BOOK 232
+        name: Göğe Bakma Durağı
+        author:  Turgut Uyar
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 233
+        name: İçimizdeki Şeytan (Cep Boy) (Tam Metin)
+        author:  Sabahattin Ali
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 234
+        name: Günlük Yazılar 2 (Sütun)
+        author:  Sezai Karakoç
+        publisher: DİRİLİŞ YAYINLARI
+      
+        BOOK 235
+        name: Böyle Söyledi Zerdüşt (Karton Kapak)
+        author:  Friedrich Nietzsche
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 236
+        name: Kolera Günlerinde Aşk
+        author:  Gabriel Garcia Marquez
+        publisher: CAN YAYINLARI
+      
+        BOOK 237
+        name: Antrenmanlarla Matematik 1
+        author:  Halil İbrahim Küçükkaya
+        publisher: ANTRENMAN YAYINLARI
+      
+        BOOK 238
+        name: Harry Potter ve Azkaban Tutsağı
+        author:  J. K. Rowling
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 239
+        name: Kendime Düşünceler (Karton Kapak)
+        author:  Marcus Aurelius
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 240
+        name: Babamın Battaniyesi
+        author:  Sara Şahinkanat
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 241
+        name: Çaylak İle Filozof / Ben Bir Neyim?
+        author:  Özkan Öze
+        publisher: UĞURBÖCEĞİ YAYINLARI
+      
+        BOOK 242
+        name: İnsancıklar (Cep Boy) (Tam Metin)
+        author:  Fyodor Mihayloviç Dostoyevski
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 243
+        name: Bütün Çocuklar İyidir
+        author:  Nihan Kaya
+        publisher: İTHAKİ YAYINLARI
+      
+        BOOK 244
+        name: Nar Ağacı
+        author: Prof. Dr. Nazan Bekiroğlu
+        publisher: TİMAŞ YAYINLARI
+      
+        BOOK 245
+        name: Hata Neredeydi? & Doğu’nun 300 Yıldır Cevabını Aradığı Soru
+        author:  Bernard Lewis
+        publisher: KRONİK KİTAP
+      
+        BOOK 246
+        name: Nezaket ve Zarafet için Mahremiyet Eğitimi
+        author: Pedagog Adem Güneş
+        publisher: TİMAŞ YAYINLARI
+      
+        BOOK 247
+        name: Pandalar Uçabilir
+        author:  Caner Yaman
+        publisher: HAYY KİTAP
+      
+        BOOK 248
+        name: İslam'ın Vadettikleri
+        author:  Roger Garaudy
+        publisher: TİMAŞ YAYINLARI
+      
+        BOOK 249
+        name: Dava (Cep Boy) (Tam Metin)
+        author:  Franz Kafka
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 250
+        name: Bir Delinin Anı Defteri & Palto-Burun - Petersburg Öyküleri ve Fayton
+        author:  Nikolay Vasilievich Gogol
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 251
+        name: Çaylak ile Filozof 3 / Ruhun Irkı Yok!
+        author:  Özkan Öze
+        publisher: UĞURBÖCEĞİ YAYINLARI
+      
+        BOOK 252
+        name: Karanlıkta Bir Nehir & Kuzey Kore’den Bir Kaçış Öyküsü
+        author:  Masaji Ishikawa
+        publisher: SALTOKUR
+      
+        BOOK 253
+        name: Çocuk Kalbi
+        author:  Edmondo De Amicis
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 254
+        name: İşte Benim Bir Günüm
+        author:  Matt Lamothe
+        publisher: REDHOUSE KIDZ YAYINLARI
+      
+        BOOK 255
+        name: Açlık
+        author:  Knut Hamsun
+        publisher: VARLIK YAYINLARI
+      
+        BOOK 256
+        name: Yeraltından Notlar (Cep Boy) (Tam Metin)
+        author:  Fyodor Mihayloviç Dostoyevski
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 257
+        name: Seni Anlıyorum Çocuk
+        author:  Dilek Cesur
+        publisher: YEDİVEREN YAYINLARI
+      
+        BOOK 258
+        name: 2020 KPSS Genel Yetenek Genel Kültür Tamamı Çözümlü 10 Deneme
+        author:  Kollektif 
+        publisher: PEGEM AKADEMİ YAYINCILIK-SINAV KİTAPLARI
+      
+        BOOK 259
+        name: İvan İlyiç'in Ölümü (Karton Kapak)
+        author:  Lev N. Tolstoy
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 260
+        name: İnsan Nedir? (Cep Boy) (Tam Metin)
+        author:  Mark Twain
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 261
+        name: Ay'a Yolculuk
+        author:  Jules Verne
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 262
+        name: Doğu Akdeniz’in Paylaşım Mücadelesi ve Türkiye
+        author: Dr. Tümamiral Cihat Yaycı
+        publisher: KIRMIZI KEDİ YAYINEVİ
+      
+        BOOK 263
+        name: Uygarlıkların Batışı
+        author:  Amin Maalouf
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 264
+        name: Dokuzuncu Hariciye Koğuşu
+        author:  Peyami Safa
+        publisher: ÖTÜKEN NEŞRİYAT
+      
+        BOOK 265
+        name: Kral Şakir 8 / Macera Adası (Ciltli)
+        author:  Varol Yaşaroğlu
+        publisher: EKSİK PARÇA ÇOCUK
+      
+        BOOK 266
+        name: Yakıcı Sır
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 267
+        name: Gelirken Ekmek Al
+        author:  Şermin Yaşar
+        publisher: DOĞAN KİTAP
+      
+        BOOK 268
+        name: Beyaz Diş (Karton Kapak)
+        author:  Jack London
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 269
+        name: Bilim Fuarında Bir Gün / Zuzu İle Allah’ın Güzel İsimlerini Öğreniyorum 3 
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 270
+        name: Harry Potter ve Zümrüdüanka Yoldaşlığı
+        author:  J. K. Rowling
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 271
+        name: Auschwitz Kütüphanecisi
+        author:  Antonio G. Iturbe
+        publisher: PEGASUS YAYINLARI
+      
+        BOOK 272
+        name: Geçmişe Yolculuk
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 273
+        name: English Grammar Today (Türkçe Açıklamalı)
+        author:  Murat Kurt
+        publisher: MK PUBLİCATİONS
+      
+        BOOK 274
+        name: 2020 KPSS Lise-Önlisans Tamamı Çözümlü Süper 5'li Deneme
+        author:  Kollektif 
+        publisher: YEDİİKLİM YAYINLARI
+      
+        BOOK 275
+        name: Kırmızı Çizgi
+        author:  Samar Mahfouz  Barraj
+        publisher: ERDEM ÇOCUK YAYINLARI
+      
+        BOOK 276
+        name: 101 Atasözü 101 Öykü
+        author:  Süleyman Bulut
+        publisher: CAN ÇOCUK YAYINLARI
+      
+        BOOK 277
+        name: Eyvah Kitap!
+        author:  Mine Soysal
+        publisher: GÜNIŞIĞI KİTAPLIĞI
+      
+        BOOK 278
+        name: Beden Kayıt Tutar
+        author:  Bessel A. van der Kolk 
+        publisher: NOBEL YAŞAM
+      
+        BOOK 279
+        name: Karanlığın Gözleri
+        author:  Dean Koontz
+        publisher: PEGASUS YAYINLARI
+      
+        BOOK 280
+        name: Koşulsuz Ebeveynlik
+        author:  Alfie Kohn
+        publisher: GÖRÜNMEZ ADAM YAYINLARI
+      
+        BOOK 281
+        name: İlyada (Karton Kapak)
+        author:  Homeros 
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 282
+        name: Son Ada'nın Çocukları
+        author:  Zülfü Livaneli
+        publisher: DOĞAN EGMONT ÇOCUK KİTAPLARI
+      
+        BOOK 283
+        name: Ezber Bozan Kadınlar
+        author:  Hatice Özdemir Tülün
+        publisher: DÜŞ DEĞİRMENİ KİTAPLIĞI
+      
+        BOOK 284
+        name: Toplum Sözleşmesi (Ciltsiz)
+        author:  Jean Jacques Rousseau
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 285
+        name: Kelime Koleksiyoncusu
+        author:  Peter H. Reynolds
+        publisher: ALTIN KİTAPLAR
+      
+        BOOK 286
+        name: Mülksüzler
+        author:  Ursula K. Le Guin
+        publisher: METİS YAYINLARI
+      
+        BOOK 287
+        name: Mucize (Ciltli)
+        author:  R. J. Palacio
+        publisher: PEGASUS YAYINLARI
+      
+        BOOK 288
+        name: Python Sıfırdan Uzmanlığa Programlama
+        author:  Atıl Samancıoğlu
+        publisher: UNIKOD
+      
+        BOOK 289
+        name: İtiraflarım (Cep Boy) (Tam Metin)
+        author:  Lev N. Tolstoy
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 290
+        name: Pat Karikatür Okulu
+        author:  Behiç Ak
+        publisher: GÜNIŞIĞI KİTAPLIĞI
+      
+        BOOK 291
+        name: Othello (Karton Kapak)
+        author:  William Shakespeare
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 292
+        name: Neee? Kümese Yeni Bir Civciv Mi Geliyor?
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 293
+        name: Nutuk-Gençler İçin Fotoğraflarla
+        author:  Mustafa Kemal Atatürk
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 294
+        name: Önce Hayal
+        author:  Judith Malika Liberman
+        publisher: REDHOUSE KIDZ YAYINLARI
+      
+        BOOK 295
+        name: İnsani İlişkiler İlahi Ölçü
+        author:  Muhammed Emin Yıldırım
+        publisher: SİYER YAYINLARI
+      
+        BOOK 296
+        name: Jane Eyre
+        author:  Charlotte Brontë
+        publisher: CAN YAYINLARI
+      
+        BOOK 297
+        name: Yaban Bütün Eserleri 1
+        author:  Yakup Kadri Karaosmanoğlu
+        publisher: İLETİŞİM YAYINLARI
+      
+        BOOK 298
+        name: Tehlikeli Oyunlar / Bütün Eserleri 2
+        author:  Oğuz Atay
+        publisher: İLETİŞİM YAYINLARI
+      
+        BOOK 299
+        name: Babalar ve Oğullar (Ciltsiz)
+        author:  Ivan Sergeyeviç Turgenyev
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 300
+        name: Üç Çocuk Bir Rüya & Peygamberimi Anlat Bana
+        author:  Hatice Kübra Tongar
+        publisher: HAYY KİTAP
+      
+        BOOK 301
+        name: Agatha Christie / Küçük İnsanlar Büyük Hayaller
+        author:  Maria Isabel Sanchez Vegara
+        publisher: MARTI ÇOCUK YAYINLARI
+      
+        BOOK 302
+        name: Değirmen
+        author:  Sabahattin Ali
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 303
+        name: Hasretinden Prangalar Eskittim
+        author:  Ahmed Arif
+        publisher: METİS YAYINLARI
+      
+        BOOK 304
+        name: Bir Çift Yürek
+        author:  Marlo Morgan
+        publisher: KLAN YAYINLARI
+      
+        BOOK 305
+        name: Zaman Bisikleti  2 - Geçmişten Gelen Konuklar
+        author:  Bilgin Adalı
+        publisher: CAN ÇOCUK YAYINLARI
+      
+        BOOK 306
+        name: Harry Potter ve Ateş Kadehi
+        author:  J. K. Rowling
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 307
+        name: Atlas &  Kıtalar, Denizler Ve Kültürler Arası Yolculuk Rehberi
+        author:  Aleksandra Mizielinska
+        publisher: DOMİNGO YAYINEVİ
+      
+        BOOK 308
+        name: Dune
+        author:  Frank Herbert
+        publisher: İTHAKİ YAYINLARI
+      
+        BOOK 309
+        name: Yetim Koleksiyoncusu
+        author:  Ellen Marie Wiseman
+        publisher: ARKADYA YAYINLARI
+      
+        BOOK 310
+        name: Bir Borsa Spekülatörünün Anıları
+        author:  Edvin Lefevre
+        publisher: SCALA YAYINCILIK
+      
+        BOOK 311
+        name: İyi Toplum Yoktur
+        author:  Nihan Kaya
+        publisher: İTHAKİ YAYINLARI
+      
+        BOOK 312
+        name: Can Veren Pervaneler
+        author:  Hayati İnanç
+        publisher: BABIALİ KÜLTÜR YAYINCILIĞI
+      
+        BOOK 313
+        name: Suyu Arayan Adam
+        author:  Şevket Süreyya Aydemir
+        publisher: REMZİ KİTABEVİ
+      
+        BOOK 314
+        name: Don Kişot (Karton Kapak)
+        author:  Miguel de Cervantes Saavedra 
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 315
+        name: Yetenekli Çocuğun Dramı
+        author:  Alice Miller
+        publisher: PROFİL KİTAP
+      
+        BOOK 316
+        name: Sevme Sanatı / Bir Eylem Olarak Sevmek
+        author:  Erich Fromm
+        publisher: SAY YAYINLARI
+      
+        BOOK 317
+        name: Kabil'i Yetiştirmek
+        author: Dr. Michael Thompson
+        publisher: GÖRÜNMEZ ADAM YAYINLARI
+      
+        BOOK 318
+        name: Perde ve Mana & Akıl Üzerine Bir Tahlil
+        author:  İbrahim Kalın
+        publisher: İNSAN YAYINLARI
+      
+        BOOK 319
+        name: Yaşlı Adam ve Deniz
+        author:  Ernest Hemingway
+        publisher: BİLGİ YAYINEVİ
+      
+        BOOK 320
+        name: İyi Yürekli Dev Memo
+        author:  Julia Donaldson
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 321
+        name: Doğu Batı Arasında İslam
+        author:  Aliya İzzetbegoviç
+        publisher: KETEBE YAYINEVİ
+      
+        BOOK 322
+        name: Yetişin Çocuklar & Bebeklikten Ergenliğe Çocuk Yetiştirme Kılavuzu
+        author: Prof. Dr.  Selçuk R. Şirin
+        publisher: DOĞAN KİTAP
+      
+        BOOK 323
+        name: Köpekler Bale Yapmaz
+        author:  Anna Kemp
+        publisher: PEARSON
+      
+        BOOK 324
+        name: Can Veren Pervaneler Seti (6 Kitap)
+        author:  Hayati İnanç
+        publisher: BABIALİ KÜLTÜR YAYINCILIĞI
+      
+        BOOK 325
+        name: Büyük Atatürk'ten Küçük Öyküler 1
+        author:  Süleyman Bulut
+        publisher: CAN ÇOCUK YAYINLARI
+      
+        BOOK 326
+        name: Gökte Kuşlarla
+        author:  John  Yeoman
+        publisher: HEP KİTAP
+      
+        BOOK 327
+        name: Su Adamı
+        author:  Aleksandr Belyaev
+        publisher: İTHAKİ YAYINLARI
+      
+        BOOK 328
+        name: Cehenneme Övgü - Gündelik Hayatta Totalitarizm
+        author:  Gündüz Vassaf
+        publisher: İLETİŞİM YAYINLARI
+      
+        BOOK 329
+        name: İnci
+        author:  John Steinbeck
+        publisher: SEL YAYINCILIK
+      
+        BOOK 330
+        name: Korkuyu Beklerken / Bütün Eserleri 4
+        author:  Oğuz Atay
+        publisher: İLETİŞİM YAYINLARI
+      
+        BOOK 331
+        name: İnce Memed 4
+        author:  Yaşar Kemal
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 332
+        name: Cingo
+        author:  Şermin Yaşar
+        publisher: DOĞAN EGMONT ÇOCUK KİTAPLARI
+      
+        BOOK 333
+        name: 2020 KPSS Lise Önlisans Fasikül Fasikül Tamamı Çözümlü 10 Deneme
+        author:  Kollektif 
+        publisher: YEDİİKLİM YAYINLARI
+      
+        BOOK 334
+        name: Harry Potter ve Lanetli Çocuk (Birinci ve İkinci Bölüm)
+        author:  J. K. Rowling
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 335
+        name: Afrikalı Leo
+        author:  Amin Maalouf
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 336
+        name: Şimdi'nin Gücü / Gerçeği Arayanların Mutlaka Okumaları Gereken Bir Kitap
+        author:  Eckhart Tolle
+        publisher: AKAŞA YAYINLARI
+      
+        BOOK 337
+        name: Doktor Ox’un Deneyi
+        author:  Jules Verne
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 338
+        name: 2020 KPSS Genel Yetenek - Genel Kültür Vatandaşlık 30 Deneme
+        author:  Kollektif 
+        publisher: PEGEM AKADEMİ YAYINCILIK-SINAV KİTAPLARI
+      
+        BOOK 339
+        name: Amelia Earhart / Küçük İnsanlar Büyük Hayaller
+        author:  Maria Isabel Sanchez Vegara
+        publisher: MARTI ÇOCUK YAYINLARI
+      
+        BOOK 340
+        name: Ay'a Yolculuk (Cep Boy) (Tam Metin)
+        author:  Jules Verne
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 341
+        name: Hareketli Uçak
+        author:  Rebecca Finn
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 342
+        name: Genç Werther'in Acıları (Cep Boy) (Tam Metin)
+        author:  Johann Wolfgang Goethe
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 343
+        name: 2020 KPSS Genel Yetenek - Genel Kültür Türkçe 30 Deneme
+        author:  Kollektif 
+        publisher: PEGEM AKADEMİ YAYINCILIK-SINAV KİTAPLARI
+      
+        BOOK 344
+        name: Düşle, İnan, Yaşa
+        author:  Can Aydoğmuş
+        publisher: İNDİGO KİTAP
+      
+        BOOK 345
+        name: Genç Bir Doktorun Anıları
+        author:  Mihail Bulgakov
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 346
+        name: 101 Deyim 101 Öykü
+        author:  Süleyman Bulut
+        publisher: CAN ÇOCUK YAYINLARI
+      
+        BOOK 347
+        name: Ağrıdağı Efsanesi
+        author:  Yaşar Kemal
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 348
+        name: Aşk ile Anı Seyretmek / Gönül Sadası’ndan Akisler 2
+        author: Dr. Kemal Sayar
+        publisher: TURKUVAZ KİTAP
+      
+        BOOK 349
+        name: Kraliçeyi Kurtarmak
+        author:  Vladimir Tumanov
+        publisher: GÜNIŞIĞI KİTAPLIĞI
+      
+        BOOK 350
+        name: Kızıl
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 351
+        name: Zaman Makinesi (Cep Boy) (Tam Metin)
+        author:  Herbert George Wells
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 352
+        name: Kanatsız Arı Mu
+        author:  Ahmet Şerif İzgören
+        publisher: ELMA YAYINEVİ
+      
+        BOOK 353
+        name: Deccal Tabakta
+        author:  Kemal Özer
+        publisher: HAYY KİTAP
+      
+        BOOK 354
+        name: Galata'nın Tembel Martısı
+        author:  Behiç Ak
+        publisher: GÜNIŞIĞI KİTAPLIĞI
+      
+        BOOK 355
+        name: Liste
+        author:  Patricia Forde
+        publisher: TİMAŞ GENÇ
+      
+        BOOK 356
+        name: Değnek Adam
+        author:  Julia Donaldson
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 357
+        name: Harry Potter ve Melez Prens
+        author:  J. K. Rowling
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 358
+        name: Sol Ayağım
+        author:  Christy Brown
+        publisher: NORA KİTAP
+      
+        BOOK 359
+        name: Kuyucaklı Yusuf (Cep Boy) (Tam Metin)
+        author:  Sabahattin Ali
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 360
+        name: Harry Potter ve Ölüm Yadigarları
+        author:  J. K. Rowling
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 361
+        name: Abdullah Olmak
+        author:  Muhammed Emin Yıldırım
+        publisher: SİYER YAYINLARI
+      
+        BOOK 362
+        name: Huzursuzluk
+        author:  Zülfü Livaneli
+        publisher: DOĞAN KİTAP
+      
+        BOOK 363
+        name: Küçük Sahabiler Seti 2 (4 kitap)
+        author:  Özkan Öze
+        publisher: UĞURBÖCEĞİ YAYINLARI
+      
+        BOOK 364
+        name: Çöle İnen Nur (kod39)
+        author:  Necip Fazıl Kısakürek
+        publisher: BÜYÜK DOĞU YAYINLARI
+      
+        BOOK 365
+        name: Akhilleus’un Şarkısı
+        author:  Madeline Miller
+        publisher: İTHAKİ YAYINLARI
+      
+        BOOK 366
+        name: Avarelik Görgüsü
+        author:  Ahmet Murat
+        publisher: KETEBE YAYINEVİ
+      
+        BOOK 367
+        name: Hanımlar İçin İnciler & Hanım Muhtevalı Hadis-i Şerifler
+        author:  Nureddin Yıldız
+        publisher: TAHLİL YAYINLARI
+      
+        BOOK 368
+        name: Bil Bakalım Hangi Meyve ? / Rabbimi Tanıyorum 1
+        author:  Merve Gülcemal
+        publisher: CEZVE ÇOCUK
+      
+        BOOK 369
+        name: Kumarbaz (Cep Boy) (Tam Metin)
+        author:  Fyodor Mihayloviç Dostoyevski
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 370
+        name: Savaş Atı
+        author:  Michael Morpurgo
+        publisher: TUDEM YAYINEVİ
+      
+        BOOK 371
+        name: Matilda Etkisi
+        author:  Ellie Irving
+        publisher: MARTI ÇOCUK YAYINLARI
+      
+        BOOK 372
+        name: Masal Masal İçinde
+        author:  Ahmet Ümit
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 373
+        name: Zeytindağı
+        author:  Falih Rıfkı Atay
+        publisher: POZİTİF YAYINLARI
+      
+        BOOK 374
+        name: Soso'nun Kompost Kitabı
+        author:  Sima Özkan
+        publisher: REDHOUSE KIDZ YAYINLARI
+      
+        BOOK 375
+        name: Çaylak İle Filozof 2 / İnsan Diye Bir Kelime
+        author:  Özkan Öze
+        publisher: UĞURBÖCEĞİ YAYINLARI
+      
+        BOOK 376
+        name: Düşünce Gücüyle Tedavi
+        author:  Louise L. Hay
+        publisher: ALTIN KİTAPLAR
+      
+        BOOK 377
+        name: Çetin Ceviz ve Mucide
+        author:  Sinan Yaşar
+        publisher: FOM KİTAP
+      
+        BOOK 378
+        name: Gençlerle Başbaşa
+        author: Ord. Prof. Dr. Ali Fuad Başgil
+        publisher: YAĞMUR YAYINLARI
+      
+        BOOK 379
+        name: Antrenmanlarla Matematik 2. Kitap
+        author:  Halil İbrahim Küçükkaya
+        publisher: ANTRENMAN YAYINLARI
+      
+        BOOK 380
+        name: 2021 TYT Tarih Soru Bankası
+        author:  Sadettin Akyayla
+        publisher: BENİM HOCAM YAYINLARI
+      
+        BOOK 381
+        name: Dört Anlaşma: Toltek Bilgelik Kitabı
+        author:  Don Miguel Ruiz
+        publisher: ÖTESİ YAYINCILIK
+      
+        BOOK 382
+        name: Sokrates’in Savunması (Cep Boy) (Tam Metin)
+        author:  Platon(Eflatun) 
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 383
+        name: Beyaz Geceler (Karton Kapak)
+        author:  Fyodor Mihayloviç Dostoyevski
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 384
+        name: Anadolu: Türk Mutfağında Bir Macera & Anatolia: Adventures In Turkish Cooking
+        author:  Somer Sivrioğlu
+        publisher: NOBEL YAŞAM
+      
+        BOOK 385
+        name: Hayatı Yeniden Keşfedin
+        author:  Jeffrey E. Young
+        publisher: PSİKONET YAYINLARI
+      
+        BOOK 386
+        name: Tecrübe Taktiklerle Paragraf Soru Bankası Tüm Zamanların Tüm Sınavları İçin
+        author:  Rüştü Bayındır
+        publisher: PELİKAN YAYINLARI
+      
+        BOOK 387
+        name: İnsanın Acısını İnsan Alır / Bütün Yazıları 1
+        author:  Şükrü Erbaş
+        publisher: KIRMIZI KEDİ YAYINEVİ
+      
+        BOOK 388
+        name: Dönüşüm (Cep Boy) (Tam Metin)
+        author:  Franz Kafka
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 389
+        name: Devlet Ana
+        author:  Kemal Tahir 
+        publisher: İTHAKİ YAYINLARI
+      
+        BOOK 390
+        name: 0-6 Yaş Dönemi Çocuk Eğitiminde 100 Temel Kural
+        author: Pedagog Adem Güneş
+        publisher: TİMAŞ YAYINLARI
+      
+        BOOK 391
+        name: Kürk Mantolu Madonna (Cep Boy) (Tam Metin)
+        author:  Sabahattin Ali
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 392
+        name: Karatay Mutfağı & Kalıcı Kilo Verdiren Yemek Tarifleri
+        author:  Canan Efendigil Karatay
+        publisher: HAYY KİTAP
+      
+        BOOK 393
+        name: Clarissa
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 394
+        name: Beden Asla Yalan Söylemez
+        author:  Alice Miller
+        publisher: OKUYAN US YAYIN
+      
+        BOOK 395
+        name: Budala (Karton Kapak)
+        author:  Fyodor Mihayloviç Dostoyevski
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 396
+        name: Kendine Ait Bir Oda (Cep Boy) (Tam Metin)
+        author:  Virginia Woolf
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 397
+        name: 2020 KPSS Genel Yetenek Genel Kültür Tamamı Çözümlü Süper 5'li Deneme
+        author:  Kollektif 
+        publisher: YEDİİKLİM YAYINLARI
+      
+        BOOK 398
+        name: Yürümenin Felsefesi 
+        author:  Frederic Gros
+        publisher: KOLEKTİF KİTAP
+      
+        BOOK 399
+        name: Vadideki Zambak (Karton Kapak)
+        author:  Honore de Balzac
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 400
+        name: Uçabileceğini Hayal Eden Tavuk
+        author:  Sun-Mı Hwang
+        publisher: TİMAŞ GENÇ
+      
+        BOOK 401
+        name: Küçük Ağaç'ın Eğitimi
+        author:  Forrest Carter
+        publisher: SAY YAYINLARI
+      
+        BOOK 402
+        name: Charlie'nin Büyük Cam Asansörü
+        author:  Roald Dahl
+        publisher: CAN ÇOCUK YAYINLARI
+      
+        BOOK 403
+        name: Fedailerin Kalesi Alamut
+        author:  Vladimir Bartol
+        publisher: KORİDOR YAYINCILIK
+      
+        BOOK 404
+        name: Satranç (Cep Boy) (Tam Metin)
+        author:  Stefan Zweig
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 405
+        name: Reçelli Şiirler
+        author:  Aytül Akal
+        publisher: REDHOUSE KIDZ YAYINLARI
+      
+        BOOK 406
+        name: 1001 Hayvanı Bulun
+        author:  Ruth Brocklehurst
+        publisher: TÜBİTAK YAYINLARI
+      
+        BOOK 407
+        name: Marie Curie / Küçük İnsanlar Büyük Hayaller
+        author:  Maria Isabel Sanchez Vegara
+        publisher: MARTI ÇOCUK YAYINLARI
+      
+        BOOK 408
+        name: Bu Kış Kimse Üşümeyecek
+        author:  Feridun Oral
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 409
+        name: Üç Zor Mesele & Teknik-Medeniyet-Yabancılaşma
+        author:  İsmet Özel
+        publisher: TİYO YAYINLARI
+      
+        BOOK 410
+        name: Çocuğun Duygusal Dünyası
+        author:  Isabelle Filliozat
+        publisher: PEGASUS YAYINLARI
+      
+        BOOK 411
+        name: Çılgın Deneyler Kulübü 1 Işınlama Kazası
+        author:  Esra İlter Demirbilek
+        publisher: MARTI ÇOCUK YAYINLARI
+      
+        BOOK 412
+        name: Kar Küresi
+        author:  Beyza Alkoç
+        publisher: İNDİGO KİTAP
+      
+        BOOK 413
+        name: Harry Potter Seti (7 Kitap-Kutulu)
+        author:  J. K. Rowling
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 414
+        name: Ölü Ozanlar Derneği
+        author:  N. H. Kleinbaum
+        publisher: BİLGE KÜLTÜR SANAT
+      
+        BOOK 415
+        name: Huşu Ağacı
+        author:  Funda Uçuk Er
+        publisher: CEZVE KİTAP
+      
+        BOOK 416
+        name: Nefsini Bilen Rabbini Bilir & Varlık Yokluk ve Nefsin Mertebeleri
+        author:  Muhyiddin İbn Arabi
+        publisher: HAYY KİTAP
+      
+        BOOK 417
+        name: Kara Kutu & Yüzleşme Vakti
+        author:  Soner Yalçın
+        publisher: KIRMIZI KEDİ YAYINEVİ
+      
+        BOOK 418
+        name: Masal İstediğin Gibi Bitsin
+        author:  Hatice Kübra Tongar
+        publisher: NESİL ÇOCUK YAYINLARI
+      
+        BOOK 419
+        name: Vapurları Seven Çocuk
+        author:  Behiç Ak
+        publisher: GÜNIŞIĞI KİTAPLIĞI
+      
+        BOOK 420
+        name: Altıncı Koğuş (Cep Boy) (Tam Metin)
+        author:  Anton Çehov
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 421
+        name: Şeytan Çıplak
+        author:  Kemal Özer
+        publisher: HAYY KİTAP
+      
+        BOOK 422
+        name: Suskunlar
+        author:  İhsan Oktay Anar
+        publisher: İLETİŞİM YAYINLARI
+      
+        BOOK 423
+        name: Dar Koridor
+        author:  Daron Acemoğlu
+        publisher: DOĞAN KİTAP
+      
+        BOOK 424
+        name: Tatar Çölü
+        author:  Dino Buzzati
+        publisher: İLETİŞİM YAYINLARI
+      
+        BOOK 425
+        name: Alice Harikalar Diyarında
+        author:  Lewis Carroll
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 426
+        name: Ölümsüz Aile
+        author:  Natalie Babbitt
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 427
+        name: İki Şehrin Hikayesi (Karton Kapak)
+        author:  Charles Dickens
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 428
+        name: Ben, Robot
+        author:  Isaac Asimov
+        publisher: İTHAKİ YAYINLARI
+      
+        BOOK 429
+        name: Kara Kutu
+        author:  Emin Pazarcı
+        publisher: SAHİ KİTAP
+      
+        BOOK 430
+        name: Damızlık Kızın Öyküsü
+        author:  Margaret Atwood
+        publisher: DOĞAN KİTAP
+      
+        BOOK 431
+        name: Son Ada
+        author:  Zülfü Livaneli
+        publisher: DOĞAN KİTAP
+      
+        BOOK 432
+        name: Külüstür
+        author:  Joy Cowley
+        publisher: UYURGEZER KİTAP
+      
+        BOOK 433
+        name: Monte Cristo Kontu (2 Cilt) (Karton Kapak)
+        author:  Alexandre Dumas
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 434
+        name: Mutlu Yaşam Üzerine - Yaşamın Kısalığı Üzerine (Karton Kapak)
+        author:  Seneca 
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 435
+        name: Zorba (Ciltsiz)
+        author:  Nikos Kazancakis
+        publisher: CAN YAYINLARI
+      
+        BOOK 436
+        name: Suç ve Ceza (3 Cilt) (Cep Boy) (Tam Metin)
+        author:  Fyodor Mihayloviç Dostoyevski
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 437
+        name: Yoksulluk İçimizde
+        author:  Mustafa Kutlu
+        publisher: DERGAH YAYINLARI
+      
+        BOOK 438
+        name: 2020 KPSS Tarih Tamamı Çözümlü Soru Bankası 
+        author:  Ramazan Yetgin
+        publisher: BENİM HOCAM YAYINLARI
+      
+        BOOK 439
+        name: Babalar ve Oğullar (Cep Boy) (Tam Metin)
+        author:  Ivan Sergeyeviç Turgenyev
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 440
+        name: Beyaz Diş (Cep Boy) (Tam Metin)
+        author:  Jack London
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 441
+        name: Bidigago & Bir Dünya Fikir
+        author:  Eda Albayrak
+        publisher: ABM YAYINEVİ
+      
+        BOOK 442
+        name: Swann'ların Tarafı / Kayıp Zamanın İzinde
+        author:  Marcel Proust
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 443
+        name: Benden Vazgeçme Ya Rab
+        author:  Mehmet  Yıldız
+        publisher: HAYY KİTAP
+      
+        BOOK 444
+        name: Mavi Kuş
+        author:  Mustafa Kutlu
+        publisher: DERGAH YAYINLARI
+      
+        BOOK 445
+        name: Üç Kedi Bir Canavar
+        author:  Sara Şahinkanat
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 446
+        name: Sana Gül Bahçesi Vadetmedim
+        author:  Joanne Greenberg
+        publisher: METİS YAYINLARI
+      
+        BOOK 447
+        name: 2021 TYT Coğrafya Soru Bankası 
+        author:  Bayram Meral
+        publisher: BENİM HOCAM YAYINLARI
+      
+        BOOK 448
+        name: İknanın Psikolojisi
+        author:  Robert B. Cialdini
+        publisher: MEDİACAT KİTAPLARI
+      
+        BOOK 449
+        name: Iskarta
+        author:  Neal Shusterman
+        publisher: PEGASUS YAYINLARI
+      
+        BOOK 450
+        name: Duygularım / Oynuyorum ve Kendimi Tanıyorum
+        author:  Isabelle Filliozat
+        publisher: DOMİNGO YAYINEVİ
+      
+        BOOK 451
+        name: Bir Fikirle Ne Yaparsın?
+        author:  Kobi Yamada
+        publisher: NAR ÇOCUK YAYINLARI
+      
+        BOOK 452
+        name: Büyük Selçuklular / Yeni Bir Devrin Başlangıcı
+        author:  Cihan Piyadeoğlu
+        publisher: KRONİK KİTAP
+      
+        BOOK 453
+        name: Kapiland'ın Kobayları
+        author:  Miyase Sertbarut
+        publisher: TUDEM YAYINEVİ
+      
+        BOOK 454
+        name: Uçurtmam Bulut Şimdi
+        author:  Sevim Ak
+        publisher: CAN ÇOCUK YAYINLARI
+      
+        BOOK 455
+        name: Disney Esrarengiz Kasaba / Günlük 3
+        author:  Alex Hirsch
+        publisher: BETA KIDS
+      
+        BOOK 456
+        name: Matematik Sıfır (TYT-DGS-KPSS-ALES)
+        author:  Kollektif 
+        publisher: KAREKÖK
+      
+        BOOK 457
+        name: Borsa'da Tek Başına
+        author:  Peter Lynch
+        publisher: SCALA YAYINCILIK
+      
+        BOOK 458
+        name: Gençlerle Hayat Bilgisi / Haluk'un Defteri
+        author: Prof. Dr. A. Haluk Dursun
+        publisher: YEDİTEPE YAYINEVİ
+      
+        BOOK 459
+        name: Olduğun Yerde Kal
+        author:  John Boyne
+        publisher: TUDEM YAYINEVİ
+      
+        BOOK 460
+        name: Araba Sevdası (Cep Boy) (Tam Metin)
+        author:  Recaizade Mahmut Ekrem 
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 461
+        name: Günübirlik Hayatlar
+        author:  Irvin D. Yalom
+        publisher: PEGASUS YAYINLARI
+      
+        BOOK 462
+        name: 2020 KPSS Lise Ön Lisans Genel Yetenek Genel Kültür Muhteşem Tamamı Çözümlü 3 Deneme
+        author:  Kollektif 
+        publisher: YARGI YAYINEVİ
+      
+        BOOK 463
+        name: Havva ile Kaplumbağa
+        author:  Behiç Ak
+        publisher: GÜNIŞIĞI KİTAPLIĞI
+      
+        BOOK 464
+        name: 2020 KPSS Coğrafya Tamamı Çözümlü Soru Bankası
+        author:  Bayram Meral
+        publisher: BENİM HOCAM YAYINLARI
+      
+        BOOK 465
+        name: Yüzbaşının Kızı (Cep Boy) (Tam Metin)
+        author:  Alexandr Sergeyeviç Puşkin
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 466
+        name: Gün Olur Asra Bedel
+        author:  Cengiz Aytmatov
+        publisher: ÖTÜKEN NEŞRİYAT
+      
+        BOOK 467
+        name: Halid Bin Velid & İslam’ın Kılıcı
+        author:  Okay Tiryakioğlu
+        publisher: TİMAŞ YAYINLARI
+      
+        BOOK 468
+        name: Örneklerle Kolay Ekonomi
+        author:  Mahfi Eğilmez
+        publisher: REMZİ KİTABEVİ
+      
+        BOOK 469
+        name: Dinle, Küçük Adam
+        author:  Wilhelm Reich
+        publisher: CEM YAYINEVİ
+      
+        BOOK 470
+        name: Nokta
+        author:  Peter H. Reynolds
+        publisher: ALTIN KİTAPLAR
+      
+        BOOK 471
+        name: Kırmızı Saçlı Kadın
+        author:  Orhan Pamuk
+        publisher: YAPI KREDİ YAYINLARI
+      
+        BOOK 472
+        name: Kırmızı Eğrelti Otunun Büyüdüğü Yer
+        author:  Wilson Rawls
+        publisher: BULUT YAYINLARI
+      
+        BOOK 473
+        name: Ünlülerle Bir Gün (10 Kitap)
+        author:  Mustafa Orakçı
+        publisher: TİMAŞ ÇOCUK YAYINLARI
+      
+        BOOK 474
+        name: Macbeth (Ciltsiz)
+        author:  William Shakespeare
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 475
+        name: Eyvah Kalbim Kırıldı!
+        author:  Elif Yemenici
+        publisher: REDHOUSE KIDZ YAYINLARI
+      
+        BOOK 476
+        name: 2020 KPSS Genel Yetenek Genel Kültür 6 Altın Çözümlü Fasikül Deneme
+        author:  Kollektif 
+        publisher: BENİM HOCAM YAYINLARI
+      
+        BOOK 477
+        name: Yediklerinizin İçinde Ne Var?
+        author:  Kemal Özer
+        publisher: HAYY KİTAP
+      
+        BOOK 478
+        name: Postayla Gelen Deniz Kabuğu
+        author:  Behiç Ak
+        publisher: GÜNIŞIĞI KİTAPLIĞI
+      
+        BOOK 479
+        name: Odysseia (Karton Kapak)
+        author:  Homeros 
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 480
+        name: Çocuk Neyi Neden Yapar?
+        author: Pedagog Adem Güneş
+        publisher: NESİL YAYINLARI
+      
+        BOOK 481
+        name: Hayatın Mucizeleri
+        author:  Stefan Zweig
+        publisher: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+      
+        BOOK 482
+        name: Göğü Delen Adam 
+        author:  Erich Scheurmann
+        publisher: AYRINTI YAYINLARI
+      
+        BOOK 483
+        name: Palto (Cep Boy) (Tam Metin)
+        author:  Nikolay Vasilievich Gogol
+        publisher: KARBON KİTAPLAR
+      
+        BOOK 484
+        name: Elfabe El ve Yüz Çizgilerinin Anlamı
+        author:  Mehmet Ali Bulut
+        publisher: HAYAT YAYINLARI
+      
+        BOOK 485
+        name: Sahabe Kıvamı & Müslümanlığımızın Aynası
+        author: Prof. Dr. İsmail Lütfi Çakan
+        publisher: M.Ü. İLAHİYAT FAKÜLTESİ VAKFI YAYINLARI
+      

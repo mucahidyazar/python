@@ -1,0 +1,10 @@
+{% extends 'layout.html' %} {% block body %}
+<div class="jumbotron text-center">
+  <h3>Yazilim Bilimi Bloguna Hosgeldiniz</h3>
+  <p>Bu blogda gelistiriciler olarak blog yazilarimizi paylasacagiz.</p>
+</div>
+{% if number1 >= 10 %}
+<p>{{number1}}</p>
+{% else %}
+<p>{{number2}}</p>
+{% endif %} {% endblock body %}
